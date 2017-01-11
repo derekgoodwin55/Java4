@@ -1,9 +1,4 @@
 
-/**
- * 
- * @author dominique
- *
- */
 public class TwitterUser implements Comparable<TwitterUser> {
 	//static variables
 	private static int MaxId;
